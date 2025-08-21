@@ -149,4 +149,3 @@ For support, open an issue or reach out to [soumya-1712](https://github.com/soum
 
 ---
 
-Do you want me to also add **example screenshots / sample WhatsApp commands** in the README so it looks more user-friendly?
